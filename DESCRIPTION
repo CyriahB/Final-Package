@@ -1,0 +1,13 @@
+Package: BMI
+Type: Package
+Title: What Does Your Body Mass Index Mean (BMI)?
+Version: 0.1.0
+Author: Cyiriah Bryant
+Maintainer: The package maintainer <cyriahbryant@usf.edu>
+Description:  BMI is a person's weight in kilograms(or pounds)
+              divided by the square of height in meters (or feet).
+              This package will determine what is your BMI and the
+              meaning of it.
+License:  CCO
+Encoding: UTF-8
+LazyData: true
